@@ -20,4 +20,4 @@
 
 ### 📌 Featured work
 
-Pinned repositories below — proof-of-concepts, tooling, and write-ups.
+Pinned repositories below, proof-of-concepts and tooling
