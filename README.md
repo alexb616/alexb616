@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alejandro 👋</h1>
 
 <p align="center">
-  Security researcher · Offensive security · Working toward Red Team
+  Security researcher · Offensive security Engineer
 </p>
 
 <p align="center">
