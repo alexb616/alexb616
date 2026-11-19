@@ -21,11 +21,11 @@
 ### 🏅 Certifications
 
 <p align="center">
-  <a href="https://www.credential.net/7d3cb3ed-1cd8-4a04-83ce-2c1e0fd93bca#acc.SfIqjb0K" title="OffSec Certified Professional · Sep 2023"><img src="assets/certs/oscp.png" alt="OSCP" width="110"></a>&nbsp;&nbsp;
-  <a href="https://www.credential.net/bc7bdbd2-b439-4200-a31a-b8b1f8b9ce7a#acc.KWSoUbFn" title="OffSec Wireless Professional · Oct 2023"><img src="assets/certs/oswp.png" alt="OSWP" width="110"></a>&nbsp;&nbsp;
-  <a href="https://www.credential.net/5d37237a-d72d-4930-b6cf-5bde57e3e503#acc.JchLQuH5" title="OffSec Experienced Penetration Tester · Jun 2024"><img src="assets/certs/osep.png" alt="OSEP" width="110"></a>&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/4d376483-c7c2-424c-8221-793f89f13fd6" title="CrowdStrike Certified Falcon Administrator · Jun 2025"><img src="assets/certs/ccfa.png" alt="CCFA" width="110"></a>&nbsp;&nbsp;
-  <a href="https://portswigger.net/web-security/e/c/9427e97b5ba0d2df" title="Burp Suite Certified Practitioner · Jun 2026"><img src="assets/certs/bscp.svg" alt="BSCP" width="110"></a>
+  <a href="https://www.credential.net/7d3cb3ed-1cd8-4a04-83ce-2c1e0fd93bca#acc.SfIqjb0K" title="OffSec Certified Professional · Sep 2023"><img src="assets/certs/oscp.png" alt="OSCP" width="100"></a>&nbsp;
+  <a href="https://www.credential.net/bc7bdbd2-b439-4200-a31a-b8b1f8b9ce7a#acc.KWSoUbFn" title="OffSec Wireless Professional · Oct 2023"><img src="assets/certs/oswp.png" alt="OSWP" width="100"></a>&nbsp;
+  <a href="https://www.credential.net/5d37237a-d72d-4930-b6cf-5bde57e3e503#acc.JchLQuH5" title="OffSec Experienced Penetration Tester · Jun 2024"><img src="assets/certs/osep.png" alt="OSEP" width="100"></a>&nbsp;
+  <a href="https://www.credly.com/badges/4d376483-c7c2-424c-8221-793f89f13fd6" title="CrowdStrike Certified Falcon Administrator · Jun 2025"><img src="assets/certs/ccfa.png" alt="CCFA" width="100"></a>&nbsp;
+  <a href="https://portswigger.net/web-security/e/c/9427e97b5ba0d2df" title="Burp Suite Certified Practitioner · Jun 2026"><img src="assets/certs/bscp.svg" alt="BSCP" width="100"></a>
 </p>
 
 <p align="center"><sub>Click any badge to verify the credential.</sub></p>
